@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thanhmong04
 - 👀 I’m interested in java
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java
+- 💞️ I’m looking to collaborate on zalo and youtube: https://youtube.com/c/socnaugamingtv
 - 📫 How to reach me zalo 0335821554
 
 <!---
